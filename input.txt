@@ -1,0 +1,15 @@
+a equal 5 ,
+b equal 3 , 
+r equal a jog b ,
+
+jodi ( a lessthan b)
+	b
+nahoy
+	a,
+
+jodi ( r greaterthan 0 )
+	r fac , 
+print sine ( 30 ),
+print cosine ( 30 ),
+print tangent ( 30 ),
+print elog ( 5 ),

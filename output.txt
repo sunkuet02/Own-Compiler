@@ -1,0 +1,10 @@
+Value of Exp in Nahoy cond. : 5 
+ Value of Exp : 40320 
+0.500000
+Exp: 114
+0.866025
+Exp: 30
+0.577350
+Exp: 30
+1.609438
+Exp: 30
